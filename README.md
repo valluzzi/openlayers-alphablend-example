@@ -1,0 +1,1 @@
+# openlayers-alphablend-example
